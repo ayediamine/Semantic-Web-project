@@ -1,0 +1,39 @@
+<http://example.org/pokemon#Alakazam_(Pokémon)>
+        a                         <http://schema.org/Thing> ;
+        <http://schema.org/name>  "Alakazam (Pokémon)" .
+
+<http://example.org/pokemon#Aipom_(Pokémon)>
+        a                         <http://schema.org/Thing> ;
+        <http://schema.org/name>  "Aipom (Pokémon)" .
+
+<http://example.org/pokemon#Abra_(Pokémon)>
+        a                         <http://schema.org/Thing> ;
+        <http://schema.org/name>  "Abra (Pokémon)" .
+
+<http://example.org/pokemon#Pokémon_(species)>
+        a                         <http://schema.org/Thing> ;
+        <http://schema.org/name>  "Pokémon (species)" .
+
+<http://example.org/pokemon#Aerodactyl_(Pokémon)>
+        a                         <http://schema.org/Thing> ;
+        <http://schema.org/name>  "Aerodactyl (Pokémon)" .
+
+<http://example.org/pokemon#Aegislash_(Pokémon)>
+        a                         <http://schema.org/Thing> ;
+        <http://schema.org/name>  "Aegislash (Pokémon)" .
+
+<http://example.org/pokemon#Accelgor_(Pokémon)>
+        a                         <http://schema.org/Thing> ;
+        <http://schema.org/name>  "Accelgor (Pokémon)" .
+
+<http://example.org/pokemon#Abomasnow_(Pokémon)>
+        a                         <http://schema.org/Thing> ;
+        <http://schema.org/name>  "Abomasnow (Pokémon)" .
+
+<http://example.org/pokemon#Aggron_(Pokémon)>
+        a                         <http://schema.org/Thing> ;
+        <http://schema.org/name>  "Aggron (Pokémon)" .
+
+<http://example.org/pokemon#Absol_(Pokémon)>
+        a                         <http://schema.org/Thing> ;
+        <http://schema.org/name>  "Absol (Pokémon)" .
